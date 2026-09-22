@@ -4,12 +4,12 @@ This repository contains external data for the [MOFA package](https://github.com
 
 ## Multi-omic data sets
 We currently provide parsed data and tutorials for the following studies:
-* [A cohort of 200 chronic lymphocytic leukaemia patients](http://htmlpreview.github.com/?https://github.com/bioFAM/MOFA/blob/master/vignettes/MOFA_example_CLL.html): patients were profiled by RNA expression, DNA methylation, drug response and somatic mutations. This is the first data set analysed in the [paper](http://msb.embopress.org/cgi/doi/10.15252/msb.20178124).
+* [A cohort of 200 chronic lymphocytic leukaemia patients](https://github.com/bioFAM/MOFA/blob/master/vignettes/MOFA_example_CLL.Rmd): patients were profiled by RNA expression, DNA methylation, drug response and somatic mutations. This is the first data set analysed in the [paper](http://msb.embopress.org/cgi/doi/10.15252/msb.20178124).
 ```
 data("CLL_data")
 ```
 
-* [Single-cell multi-omics profiling of ~100 mouse embryonic stem cells.](http://htmlpreview.github.io/?https://github.com/bioFAM/MOFA/blob/master/vignettes/MOFA_example_scMT.html): single cells were profiled for DNA methylation and RNA expression using scNMT-seq. This is the second data set analysed in the [paper](http://msb.embopress.org/cgi/doi/10.15252/msb.20178124). 
+* [Single-cell multi-omics profiling of ~100 mouse embryonic stem cells.](https://github.com/bioFAM/MOFA/blob/master/vignettes/MOFA_example_scMT.Rmd): single cells were profiled for DNA methylation and RNA expression using scNMT-seq. This is the second data set analysed in the [paper](http://msb.embopress.org/cgi/doi/10.15252/msb.20178124). 
 ```
 data("scMT_data")
 ```
